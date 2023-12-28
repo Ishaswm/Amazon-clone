@@ -1,3 +1,3 @@
 # Amazon-clone
 
-This project is a simplified front end clone of Netflix.
+This project is a simplified front end clone of Amazon.
