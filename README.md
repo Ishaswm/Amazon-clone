@@ -15,6 +15,7 @@ Responsive Design: The layout is designed to be responsive, ensuring a seamless 
 
 Challenges Faced
 1. Responsive Design Complexity
+
 One of the primary challenges encountered during the development of this Amazon homepage clone was ensuring a seamless and responsive design across various devices. Balancing the layout to look visually appealing on both large desktop screens and smaller mobile devices required careful consideration of CSS media queries and flexible design patterns.
 
 Solutions Implemented
