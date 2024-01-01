@@ -1,7 +1,9 @@
 # Amazon-clone
 
 Technologies Used:
-HTML |
+
+HTML
+
 CSS
 
 This project is a simplified front-end replica of the Amazon homepage using HTML and CSS. The aim was to recreate the basic structure and layout of the Amazon homepage to practice and showcase HTML and CSS skills.
