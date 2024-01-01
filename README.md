@@ -7,7 +7,7 @@ CSS
 This project is a simplified front-end replica of the Amazon homepage using HTML and CSS. The aim was to recreate the basic structure and layout of the Amazon homepage to practice and showcase HTML and CSS skills.
 
 
-Website link: https://guileless-biscotti-836a9a.netlify.app/
+Website Demo link: https://guileless-biscotti-836a9a.netlify.app/
 
 Basic Structure: The project replicates the basic structure of the Amazon homepage, including the header, navigation bar, product grid, and footer.
 
